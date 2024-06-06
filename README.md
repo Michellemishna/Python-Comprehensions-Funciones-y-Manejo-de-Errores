@@ -18,7 +18,12 @@
 ## Instrucciones para ejecutar 
 
 - Clona el repositorio en tu computadora
-- Ingresa las siguientes instrucciones en la terminal
+- Si no tienes instadado Matplotlib tenemos que hacer la instalación antes:
+  
+   ```sh
+  pip install matplotlib 
+  ```
+- Una ves termine la instalación ingresa las siguientes instrucciones en la terminal
 
   ```sh
   python app/main.py 
